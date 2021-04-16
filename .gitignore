@@ -1,0 +1,14 @@
+# npm
+node_modules/
+
+# Parcel
+/.cache/
+/dist/
+
+# TypeScript
+ /.ts-cache/
+
+# Vscode
+/.vscode/
+/.vscod/extensions.json/
+/.vscod/settings.json/
