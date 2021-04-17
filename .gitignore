@@ -12,3 +12,5 @@ node_modules/
 /.vscode/
 /.vscod/extensions.json/
 /.vscod/settings.json/
+
+/.env/
