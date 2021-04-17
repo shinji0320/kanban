@@ -13,4 +13,5 @@ node_modules/
 /.vscod/extensions.json/
 /.vscod/settings.json/
 
-/.env/
+# dotenv environment variables file
+.env
